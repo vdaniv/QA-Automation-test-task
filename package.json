@@ -1,0 +1,21 @@
+{
+  "name": "cypress-education",
+  "version": "1.0.0",
+  "description": "Writting automation tests with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "automation",
+    "tests",
+    "cypress"
+  ],
+  "author": "Volodymyr Daniv",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.3.1",
+    "mochawesome": "^6.2.2"
+  }
+}

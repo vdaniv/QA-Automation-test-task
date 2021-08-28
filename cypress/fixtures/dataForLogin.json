@@ -1,0 +1,8 @@
+{
+    "link": "https://www.pecodesoftware.com/qa-portal/greet.php",
+    "username": "Volodymyr Daniv",
+    "password": "Hello",
+    "urlPharse": "registerlogin.php",
+    "homePhrase": "QA Portal Login",
+    "errorMessage": "No account found with that username."
+}
